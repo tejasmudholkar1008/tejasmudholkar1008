@@ -52,7 +52,7 @@ I'm a Software Engineer with **7+ years of experience** building scalable web an
 ### 📫 Connect With Me
 
 - 🌐 Website: [tejasmudholkar.com](https://tejasmudholkar.com)
-- 📧 Email: [tejasmudholkar@gmail.com](mailto:tejasmudholkar@gmail.com)
+- 📧 Email: [hello@ejasmudholkar.com](mailto:hello@tejasmudholkar.com)
 - 💼 LinkedIn: [Tejas Mudholkar](https://www.linkedin.com/)
 - 🐙 GitHub: [@tejasmudholkar1008](https://github.com/tejasmudholkar1008)
 
