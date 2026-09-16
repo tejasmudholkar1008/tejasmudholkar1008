@@ -51,11 +51,8 @@ I'm a Software Engineer with **7+ years of experience** building scalable web an
 
 ### 📫 Connect With Me
 
+- 🌐 Website: [tejasmudholkar.com](https://tejasmudholkar.com)
 - 📧 Email: [tejasmudholkar@gmail.com](mailto:tejasmudholkar@gmail.com)
 - 💼 LinkedIn: [Tejas Mudholkar](https://www.linkedin.com/)
 - 🐙 GitHub: [@tejasmudholkar1008](https://github.com/tejasmudholkar1008)
 
-<!---
-tejasmudholkar1008/tejasmudholkar1008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
